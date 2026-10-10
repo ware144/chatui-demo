@@ -26,7 +26,7 @@ npm run preview  # 本地预览构建产物
 
 ## 在线地址
 
-部署完成后访问：`https://<你的用户名>.github.io/chatui-demo/`
+部署完成后访问：`https://ware144.github.io/chatui-demo/`
 
 ## 技术栈
 
